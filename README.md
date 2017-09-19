@@ -4,9 +4,9 @@
 
 ## Tasks
 
-- [x] 1. Ознакомиться со ссылками учебного материала
-- [x] 2. Выполнить инструкцию учебного материала
-- [x] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
+- [ ] 1. Ознакомиться со ссылками учебного материала
+- [ ] 2. Выполнить инструкцию учебного материала
+- [ ] 3. Составить отчет и отправить ссылку личным сообщением в **Slack**
  
 ## Tutorial
 
@@ -52,27 +52,26 @@ $ gistup -m "lab${LAB_NUMBER}"
 
 ### Unix commands
 
-- [ar](https://en.wikipedia.org/wiki/Ar_(Unix)) — стандартная утилита Unix, архиватор, не использующий сжатия данных.
-      // 
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) — утилита UNIX, выводящая последовательно указанные файлы (или устройства), таким образом, объединяя их в единый поток. Если вместо имени файла указывается «-», то читается стандартный ввод.
-- [cd](https://en.wikipedia.org/wiki/Cd_(command)) — команда командной строки для изменения текущего рабочего каталога в Unix, DOS и других операционных системах. 
-- [cp](https://en.wikipedia.org/wiki/Cp_(Unix)) — команда Unix в составе GNU Coreutils, предназначенная для копирования файлов из одного в другие каталоги (возможно, с другой файловой системой). Исходный файл остаётся неизменным, имя созданного файла может быть таким же, как у исходного, или изменится.
-- [cut](https://en.wikipedia.org/wiki/Cut_(Unix)) — команда выборки отдельных полей из строк файла.
-- [echo](https://en.wikipedia.org/wiki/Echo_(command)) — команда Unix, предназначенная для отображения строки текста. 
-- [env](https://en.wikipedia.org/wiki/Env_(shell)) — UNIX‐утилита, исполняющая команду с изменением окружения. Входит, например, в gettext от GNU
-- [ex](https://en.wikipedia.org/wiki/Ex_(editor)) — расширение редактора ed, наиболее значительным добавлением к которому является возможность экранного редактирования. 
-- [file](https://en.wikipedia.org/wiki/File_(command)) — команда Unix, предназначенная для определения типа файла.
-- [find](https://en.wikipedia.org/wiki/Find)  — утилита поиска файлов по имени и другим свойствам, используемая в UNIX‐подобных операционных системах. Может производить поиск в одном или нескольких каталогах с использованием критериев, заданных пользователем. По умолчанию, find возвращает все файлы в рабочей директории. Более того, find позволяет применять пользователю определённые действия ко всем найденным файлам. 
-- [ls](https://en.wikipedia.org/wiki/Ls) — утилита Unix, которая печатает в стандартный вывод содержимое каталогов.
-- [man](https://en.wikipedia.org/wiki/Man_page) — команда Unix, предназначенная для форматирования и вывода справочных страниц.
-- [mkdir](https://en.wikipedia.org/wiki/Mkdir) — команда для создания новых каталогов.
-- [mv](https://en.wikipedia.org/wiki/Mv) — утилита в UNIX и UNIX-подобных системах, используется для перемещения или переименования файлов.
-- [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) — команда в операционной системе UNIX, печатающая информацию о бинарных файлах (объектных файлах, библиотеках, исполняемых файлах и т. д.), прежде всего таблицу имён. 
-- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))  — программа в UNIX, Unix-подобных и других POSIX-совместимых операционных системах, выводящая отчёт о работающих процессах.
-- [pwd](https://en.wikipedia.org/wiki/Pwd) — консольная утилита в UNIX-подобных системах, которая выводит полный путь от корневого каталога к текущему рабочему каталогу: в контексте которого (по умолчанию) будут исполняться вводимые команды.
-- [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) — утилита в UNIX и UNIX-подобных системах, используемая для удаления файлов из файловой системы. 
-- [sed](https://en.wikipedia.org/wiki/Sed) — потоковый текстовый редактор (а также язык программирования), применяющий различные предопределённые текстовые преобразования к последовательному потоку текстовых данных.
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) — команда Unix, предназначенная для установки времени последнего изменения файла или доступа в текущее время. Также используется для создания пустых файлов.
+- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))
+- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
+- [cd](https://en.wikipedia.org/wiki/Cd_(command))
+- [cp](https://en.wikipedia.org/wiki/Cp_(Unix))
+- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
+- [echo](https://en.wikipedia.org/wiki/Echo_(command))
+- [env](https://en.wikipedia.org/wiki/Env_(shell))
+- [ex](https://en.wikipedia.org/wiki/Ex_(editor)) 
+- [file](https://en.wikipedia.org/wiki/File_(command))
+- [find](https://en.wikipedia.org/wiki/Find)
+- [ls](https://en.wikipedia.org/wiki/Ls)
+- [man](https://en.wikipedia.org/wiki/Man_page)
+- [mkdir](https://en.wikipedia.org/wiki/Mkdir)
+- [mv](https://en.wikipedia.org/wiki/Mv)
+- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))
+- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
+- [pwd](https://en.wikipedia.org/wiki/Pwd)
+- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))
+- [sed](https://en.wikipedia.org/wiki/Sed)
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))
 
 ### Package Managers
 
